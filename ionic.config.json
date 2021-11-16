@@ -1,0 +1,7 @@
+{
+  "name": "ion-filter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
